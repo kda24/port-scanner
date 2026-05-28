@@ -1,0 +1,24 @@
+1.
+input:
+Enter target IP (or press Enter for 127.0.0.1): scanme.nmap.org
+
+output:
+Scanning scanme.nmap.org ...
+
+[OPEN] Port 22 → SSH-2.0-OpenSSH_6.6.1
+[OPEN] Port 80 → no banner
+
+Results saved to results.txt
+Scan complete.
+
+2.
+input: press enter which means to scan the local host
+
+output:
+Scanning 127.0.0.1 ...
+
+[OPEN] Port 135 → no banner
+[OPEN] Port 445 → no banner
+
+Results saved to results.txt
+Scan complete.
